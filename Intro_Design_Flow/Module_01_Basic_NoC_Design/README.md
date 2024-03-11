@@ -199,7 +199,7 @@ set_property -dict [list CONFIG.USER_C_AXI_DATA_INTEGRITY_CHECK {ON}] [get_bd_ce
 To create a default address map:
 1. Open the **Address Editor** tab as shown in the following figure. Expand the tree by clicking the
 down-arrow on **noc_tg**.
-![Address Editor](images/address_editor.PNG)
+![Address Editor](images/address_editor.png)
 2. Right-click in the Address Editor window and select **Assign All** from the context menu.
 ![Assign All](images/address_editor_assignall.png)
 3. Note that the address of `0x0000_0201_0000_0000` is assigned to `axi_bram_ctrl_0`.
