@@ -251,7 +251,7 @@ Note: Ensure that Simulator language is set to Mixed.
 Note: The wrapper created above is now the Simulation top module name.
 8. To generate the behavioral RTL models and start the simulator, click Simulation → Run
 Simulation, and select Run Behavioral Simulation.
-9. Click on the Run All icon ![icon](images/sim_run_button.PNG) in the Simulation toolbar. Simulation will complete in about 25 μs
+9. Click on the Run All icon ![icon](images/sim_run_button.png) in the Simulation toolbar. Simulation will complete in about 25 μs
 of simulated time.
 ```tcl
 launch_simulation
