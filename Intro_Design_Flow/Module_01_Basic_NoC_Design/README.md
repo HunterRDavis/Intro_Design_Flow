@@ -201,7 +201,7 @@ To create a default address map:
 down-arrow on **noc_tg**.
 ![Address Editor](images/address_editor.PNG)
 2. Right-click in the Address Editor window and select **Assign All** from the context menu.
-![Assign All](images/address_editor_assignal.PNG)
+![Assign All](images/address_editor_assignall.png)
 3. Note that the address of `0x0000_0201_0000_0000` is assigned to `axi_bram_ctrl_0`.
 When **validate_bd_design** is run these values are propagated to the traffic generator.
 
